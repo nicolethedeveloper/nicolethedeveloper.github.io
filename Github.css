@@ -2,7 +2,7 @@
 body {
 	background-image: url("picjumbo.com_HNCK4530.jpg");
 	background-size: contain;
-	/*background-repeat: repeat-y;*/
+	background-attachment: fixed;
 }
 h1 {
 	padding-top: 40px;
