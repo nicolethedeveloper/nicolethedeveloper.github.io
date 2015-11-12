@@ -7,6 +7,9 @@ body {
 h1 {
 	padding-top: 40px;
 }
+h2, h3 {
+	font-family: "Nueva STD", Times, serif;
+}
 .col-md-3 {
 	background-color: #FFFFFF;
 }
