@@ -1,8 +1,8 @@
 @charset "UTF-8";
 body {
 	background-image: url("picjumbo.com_HNCK4530.jpg");
-	background-size: cover;
-	background-repeat: repeat-x;
+	/*background-size: cover;*/
+	background-repeat: repeat-y;
 }
 h1 {
 	padding-top: 40px;
