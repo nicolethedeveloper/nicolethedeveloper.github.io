@@ -2,6 +2,7 @@
 body {
 	background-image: url("picjumbo.com_HNCK4530.jpg");
 	background-size: cover;
+	background-repeat: repeat-x;
 }
 .container {
 	background-color: #FFF;
