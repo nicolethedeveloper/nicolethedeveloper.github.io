@@ -1,11 +1,17 @@
 @charset "UTF-8";
 body {
 	background-image: url(picjumbo.com_HNCK4530.jpg);
-	background-size: cover;
+	background-size: contain;
 }
-.container {
-	background-color: #FFF;
+
+h1 {
+	padding-top: 40px;
 }
+
+.col-md-3 {
+	background-color:#FFFFFF;
+}
+
 footer {
 	padding-top: 20px;
 }
