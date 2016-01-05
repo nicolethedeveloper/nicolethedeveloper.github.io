@@ -15,9 +15,12 @@ h2, h3 {
 }
 .img-thumbnail {
 	margin-bottom: 30px;
+	margin-left: 10px
+	margin-bottom: 10px;
 }
 #fav_things {
 	background-color: #FFFFFF;
+	padding-top: 20px;
 }
 footer {
 	padding-top: 20px;
