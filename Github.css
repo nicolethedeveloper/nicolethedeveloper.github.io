@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body {
-	background-image: url(picjumbo.com_HNCK4530.jpg);
+	background-image: url("picjumbo.com_HNCK4530.jpg");
 	background-size: contain;
 	background-attachment: fixed;
 }
