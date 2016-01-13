@@ -2,17 +2,28 @@
 body {
 	background-image: url(picjumbo.com_HNCK4530.jpg);
 	background-size: contain;
+	background-attachment: fixed;
 }
-
 h1 {
 	padding-top: 40px;
 }
-
-.col-md-3 {
-	background-color:#FFFFFF;
+h2, h3 {
+	font-family: "Nueva STD", Times, serif;
 }
-
+.col-md-3 {
+	background-color: #FFFFFF;
+}
+.img-thumbnail {
+	margin-bottom: 30px;
+	/*margin-left: 20px;
+	margin-right: 20px;*/
+}
+#fav_things {
+	background-color: #FFFFFF;
+	padding-top: 20px;
+}
 footer {
 	padding-top: 20px;
+	background-color: #FFFFFF;
 }
 
